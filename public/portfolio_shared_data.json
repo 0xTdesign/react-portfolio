@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Tim Allison",
-    "titles": ["Junior Software developer"],
+    "titles": ["Software Developer"],
     "social": [
       {
         "name": "github",
@@ -9,12 +9,12 @@
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/0xtim-allison/",
+        "class": "fab fa-lindedin"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "profile-pic.png"
   },
   "skills": {
     "icons": [
