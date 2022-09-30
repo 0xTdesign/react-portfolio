@@ -1,8 +1,5 @@
 import React, { Component } from "react";
-import {
-  VerticalTimeline,
-  VerticalTimelineElement,
-} from "react-vertical-timeline-component";
+import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
 
@@ -33,27 +30,19 @@ class Experience extends Component {
             className="vertical-timeline-element--work"
             date={work.years}
             iconStyle={{
-              background: "#AE944F",
-              color: "#fff",
+              background: "#6878A6",
+              color: "#CEDEF2",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={<i className="fab fa-react experience-icon"></i>}
             key={i}
           >
-            <div style={{ textAlign: "left", marginBottom: "4px" }}>
-              {mainTech}
-            </div>
+            <div style={{ textAlign: "left", marginBottom: "4px" }}>{mainTech}</div>
 
-            <h3
-              className="vertical-timeline-element-title"
-              style={{ textAlign: "left" }}
-            >
+            <h3 className="vertical-timeline-element-title" style={{ textAlign: "left" }}>
               {work.title}
             </h3>
-            <h4
-              className="vertical-timeline-element-subtitle"
-              style={{ textAlign: "left" }}
-            >
+            <h4 className="vertical-timeline-element-subtitle" style={{ textAlign: "left" }}>
               {work.company}
             </h4>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
@@ -78,13 +67,11 @@ class Experience extends Component {
             {work}
             <VerticalTimelineElement
               iconStyle={{
-                background: "#AE944F",
-                color: "#fff",
+                background: "#6878A6",
+                color: "#CEDEF2",
                 textAlign: "center",
               }}
-              icon={
-                <i className="fas fa-hourglass-start mx-auto experience-icon"></i>
-              }
+              icon={<i className="fas fa-hourglass-start mx-auto experience-icon"></i>}
             />
           </VerticalTimeline>
         </div>

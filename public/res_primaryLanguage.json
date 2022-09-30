@@ -73,17 +73,24 @@
   "experience": [
     {
       "company": "Techeducators",
-      "title": "Student",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
-      "technologies": ["REST API", "RxJS", "JavaScript", "Bootstrap"]
+      "title": "Full Stack Mern bootcamp",
+      "years": "08.2022 - 11.2022",
+      "mainTech": ["Web3 & Solidity"],
+      "technologies": ["Node.js", "Solidity"]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "Techeducators",
+      "title": "Full Stack Mern bootcamp",
+      "years": "08.2022 - 11.2022",
+      "mainTech": ["Mern Stack"],
+      "technologies": ["React", "Node.js", "JavaScript", "HTML 5,", "CSS 3", "SCSS", "Express", "MongoDB"]
+    },
+    {
+      "company": "Scrimba",
+      "title": "Learn React",
+      "years": "08.2022 - present",
+      "mainTech": ["Mern Stack"],
+      "technologies": ["React", "JavaScript", "HTML 5,", "CSS 3"]
     }
   ]
 }

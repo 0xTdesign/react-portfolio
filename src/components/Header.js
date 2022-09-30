@@ -51,7 +51,7 @@ class Header extends Component {
             height="90"
             viewBox="0 0 250 250"
             style={{
-              fill: "#151513",
+              fill: "#3F5573",
               color: "#fff",
               position: "absolute",
               top: 0,
@@ -91,8 +91,8 @@ class Header extends Component {
             <Switch
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
-              offColor="#baaa80"
-              onColor="#353535"
+              offColor="#6878A6"
+              onColor="#CEDEF2"
               className="react-switch mx-auto"
               width={90}
               height={40}
@@ -140,6 +140,23 @@ class Header extends Component {
                 <HeaderTitleTypeAnimation />
               </div>
             </div>
+          </div>
+        </div>
+        <div class="lines">
+          <div class="line"></div>
+          <div class="line"></div>
+          <div class="line"></div>
+        </div>
+        <div class="content">
+          <div class="content__container">
+            <p class="content__container__text">Hello</p>
+
+            <ul class="content__container__list">
+              <li class="content__container__list__item">My </li>
+              <li class="content__container__list__item">name</li>
+              <li class="content__container__list__item">is</li>
+              <li class="content__container__list__item">Tim Allison</li>
+            </ul>
           </div>
         </div>
       </header>
