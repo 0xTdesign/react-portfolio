@@ -11,30 +11,30 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-      "images": ["images/portfolio/animal-shelter/p1.jpg", "images/portfolio/animal-shelter/p2.jpg"],
-      "url": "",
+      "title": "Boba Gaming",
+      "startDate": "2022",
+      "description": "A fun interactive webpage that has three different games types that test the players cognotive skills. ",
+      "images": ["images/portfolio/boba-gaming/bobagaming.png"],
+      "url": "https://boba-gaming.netlify.app/s",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
         }
       ]
     },
     {
-      "title": "Photography",
+      "title": "FINAL PROJECT",
       "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "ADD INFO FOR FINAL PROJECT",
       "images": ["images/portfolio/photography/p1.jpg", "images/portfolio/photography/p2.jpg"],
       "url": "https://github.com",
       "technologies": [
@@ -49,9 +49,9 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "PROJECT TWO",
+      "startDate": "2022",
+      "description": "ADD PROJECT INFO HERE ",
       "images": ["images/portfolio/adventure/p1.jpg", "images/portfolio/adventure/p2.jpg"],
       "url": "https://github.com",
       "technologies": [
@@ -72,21 +72,11 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
+      "company": "Techeducators",
+      "title": "Student",
       "years": "10.2019 - present",
       "mainTech": ["Angular 8/9/10"],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
+      "technologies": ["REST API", "RxJS", "JavaScript", "Bootstrap"]
     },
     {
       "company": "Serros Solutions",
