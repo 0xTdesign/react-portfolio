@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Hi",
-    "description": " Hi, my name is Tim. Follow me on my journey as I turn my life upside down, leaving everything I know behind to follow my passion, coding, and crypto. Look around and enjoy and contact me if you like.",
+    "description_header": "About me ",
+    "description": "Hi, my name is Tim. Follow me on my journey as I turn my life upside down, leaving everything I know behind to follow my passion, coding, and crypto. Look around and enjoy and contact me if you like.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -15,7 +15,7 @@
       "startDate": "2022",
       "description": "A fun interactive webpage that has three different games types that test the players cognotive skills. ",
       "images": ["images/portfolio/boba-gaming/bobagaming.png"],
-      "url": "https://boba-gaming.netlify.app/s",
+      "url": "https://boba-gaming.netlify.app/",
       "technologies": [
         {
           "class": "devicon-javascript-plain",

@@ -155,7 +155,7 @@ class Header extends Component {
               <li class="content__container__list__item">My </li>
               <li class="content__container__list__item">name</li>
               <li class="content__container__list__item">is</li>
-              <li class="content__container__list__item">Tim Allison</li>
+              <li class="content__container__list__item">Tim</li>
             </ul>
           </div>
         </div>
