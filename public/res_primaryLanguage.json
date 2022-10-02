@@ -72,14 +72,7 @@
   ],
   "experience": [
     {
-      "company": "Techeducators",
-      "title": "Full Stack Mern bootcamp",
-      "years": "08.2022 - 11.2022",
-      "mainTech": ["Web3 & Solidity"],
-      "technologies": ["Node.js", "Solidity"]
-    },
-    {
-      "company": "Techeducators",
+      "company": "Tech Educators",
       "title": "Full Stack Mern bootcamp",
       "years": "08.2022 - 11.2022",
       "mainTech": ["Mern Stack"],
@@ -91,6 +84,13 @@
       "years": "08.2022 - present",
       "mainTech": ["Mern Stack"],
       "technologies": ["React", "JavaScript", "HTML 5,", "CSS 3"]
+    },
+    {
+      "company": "Tech Educators",
+      "title": "Web3 Bootcamp",
+      "years": "11.2022 - 11.2022",
+      "mainTech": ["Web3 & Solidity"],
+      "technologies": ["Node.js", "Solidity"]
     }
   ]
 }
